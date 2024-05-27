@@ -45,8 +45,3 @@ Projekt "Gra Wisielec" jest implementacją popularnej gry słownej, w której u�
 - **WordDatabase.java**: Klasa zarządzająca bazą danych SQLite.
 - **Statistics.java**: Klasa do zarządzania statystykami gry.
 - **README.md**: Dokumentacja projektu.
-
-## Kod źródłowy
-
-Kod źródłowy aplikacji znajduje się w repozytorium. Poniżej znajduje się struktura katalogów projektu:
-
