@@ -1,4 +1,4 @@
-# 1. Gra Wisielec
+# 2. Gra Wisielec
 
 ## Spis treści
 1. [Opis projektu](#opis-projektu)
