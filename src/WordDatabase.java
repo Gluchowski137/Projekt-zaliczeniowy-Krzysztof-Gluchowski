@@ -102,6 +102,9 @@ public class WordDatabase {
 
     public String getRandomWord(int difficulty) {
         List<String> words = getWords(difficulty);
+        if (words.isEmpty()) {
+            throw new IllegalStateException("No words available for the given difficulty level.");
+        }
         Random rand = new Random();
         return words.get(rand.nextInt(words.size()));
     }
